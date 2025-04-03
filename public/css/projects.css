@@ -53,12 +53,54 @@
     transition: transform 0.3s;
 }
 
-#projects .float-end .btn {
+#projects .float-end .abtn {
     transition: none;
     border-radius: .5rem !important;
     border-color: var(--primary-color) !important;
 }
 
-#projects .float-end .btn:focus {
+#projects .float-end .abtn:focus {
     box-shadow: none !important;
+}
+
+#projects a.abtn.social-icon {
+    color: var(--primary-color) !important;
+    line-height: 0%;
+    border-radius: 50%;
+    margin-top: 50px;
+    padding: 0.7rem;
+    border: 1px solid var(--primary-color);
+    transition: none;
+}
+
+#projects a.abtn.social-icon img {
+    width: 1em;
+}
+
+#projects a.abtn.social-icon:hover {
+    opacity: 0.8;
+}
+
+#projects a.abtn {
+    margin-top: 50px;
+    padding: 0.7rem 1.75rem;
+    border: 1px solid var(--primary-color);
+    color: var(--text-color) !important;
+    border-radius: .75rem;
+    transition: none;
+}
+
+#projects a.abtn:focus {
+    box-shadow: none;
+}
+
+#projects a.abtn:hover {
+    background-color: var(--secondary-color) !important;
+    color: var(--text-color) !important;
+    opacity: 0.9;
+}
+
+#projects a.abtn.social-icon:hover {
+    background-color: var(--background-color) !important;
+    opacity: 0.7;
 }
