@@ -179,7 +179,7 @@ params:
     items:
       - job: "Senior Machine Learning Engineer"
         company: "McKinsey & Company"
-        companyUrl: "https://example.com"
+        companyUrl: "https://www.mckinsey.com"
         date: "Jan 2023 - Present"
         featuredLink:
           enable: false
@@ -188,14 +188,21 @@ params:
         info:
           enable: false
         content: |
-          I am currently working as a senior machine learning engineer at [McKinsey.](https://example.com) in Santa Ana, CA. I am currently working on scaling LLMOps and MLOps across the enterprise.
+          I am currently working as a Senior Machine Learning Engineer at [McKinsey & Company.](https://www.mckinsey.com) in Santa Ana, CA. I am currently working on scaling LLMOps and MLOps across the enterprise.
 
-          - one
-          - two
+          - Leading and implementing client engagements for Traditional ML and GenAI for use cases including:
+            - Real-time call center co-pilot
+            - Agentic chatbots
+            - Unifying batch and real-time feature engineering using feature stores
+          - Educate on MLOps and LLMOps best practices via:
+            - Developing and running internal and client facing trainings
+            - Presenting at conferences like ODSC West and global webinars like MLOps Community
+            - Presenting as a repeat guest lecturer for a graduate course at UC Berkeley
+          - Explain complex technical concepts in an approachable manner to executive stakeholders while highlighting concrete business needs and outcomes
 
-      - job: "Senior Machine Learning Engineer"
+      - job: "Senior Machine Learning Engineer / MLOps Solutions Architect / Pre-Sales Engineer"
         company: "Iguazio"
-        companyUrl: "https://example.com"
+        companyUrl: "https://iguazio.com"
         date: "Oct 2022 - Present"
         featuredLink:
           enable: false
@@ -204,14 +211,15 @@ params:
           enable: true
           content: Acquired by McKinsey in January 2023
         content: |
-          I am currently working as a senior machine learning engineer at [Iguazio.](https://example.com) in Santa Ana, CA. I am currently working on scaling LLMOps and MLOps across the enterprise.
+          I worked as several roles including Pre-Sales Engineer, MLOps Solutions Architect, and Senior Machine Learning Engineer at [Iguazio.](https://iguazio.com) in Santa Ana, CA. I am currently still part of the Iguazio team now that McKinsey aquired the company in January 2023.
 
-          - one
-          - two
+          - Designed and implemented a real-time fraud detection POC that caught over 70% of fraudulent transactions with the potential to save $1+ million in false charges using Kafka, PySpark, Optuna, LightGBM, and Nuclio
+          - Developed and authored white paper on an end-to-end hybrid cloud solution that integrates on-premise feature store and model serving with Azure's AutoML service
+          - Pioneered new training/sales initiative by recording over 30 hours of technical content resulting in 50% more customer engagement, faster onboarding, and a shorter sales cycle
 
       - job: "Audio Test Engineer"
         company: "Qualcomm"
-        companyUrl: "https://example.com"
+        companyUrl: "https://www.qualcomm.com"
         date: "Aug 2020 - Oct 2020"
         info:
           enable: false
@@ -219,14 +227,14 @@ params:
           enable: false
           url: "https://example.com"
         content: |
-          Audio test engineer for noise cancelling wireless earbuds.
+          I worked as an Audio Test Engineer for noise cancelling wireless earbuds at [Qualcomm](https://www.qualcomm.com).
           
           - Worked with wind tunnels and isolation chambers to measure earbud noise cancellation performance
           - Developed Python application to visualize and compare different earbud performance across multiple dimensions
 
       - job: "Data & AI Remote Consultant"
         company: "Groupware Technology"
-        companyUrl: "https://example.com"
+        companyUrl: "https://www.linkedin.com/company/groupware-technology/"
         date: "Sept 2019 - Oct 2020"
         featuredLink:
           enable: true
@@ -234,7 +242,7 @@ params:
         info:
           enable: false
         content: |
-          I worked as a Data & AI Remote Consultant at Groupware Technology (since acquired by Trace3).
+          I worked as a Data & AI Remote Consultant at [Groupware Technology (since acquired by Trace3)](https://www.linkedin.com/company/groupware-technology/).
 
           - Developed hybrid machine learning pipeline with Kubeflow Pipelines, Kubernetes, and AWS for use on-prem and in the cloud
           - Wrote and lead Kubernetes/DeepOps/Kubeflow boot camp refresher course for customers
@@ -291,16 +299,17 @@ params:
       download: true
       newPage: false
     items:
-      - title: MLOps Live Agentic AI Webinar - 2025-01-28
-        content: A highly customizable and mobile first Hugo template for personal portfolio and blog.
-        image: /images/projects/profile.png
+      - title: "Agentic AI Frameworks: Bridging Foundation Models & Business Impact - MLOps Live #34 w/ QuantumBlack"
+        date: "2025-01-28"
+        content: "Developed and presented a solution for predictive customer retention using a combination of Traditional ML and Generative AI. Uses traditional ML churn classification alongside LLMs to generate hyper-personalized customer retention emails with a feedback loop and compliance checks."
+        image: /images/projects/churn-webinar.png
         featured:
           name: Demo
           link: https://hugo-profile.netlify.app
         badges:
-          - "Hugo"
-          - "Bootstrap"
-          - "Javascript"
+          - "GenAI"
+          - "Agentic AI"
+          - "Churn Classification"
         links:
           - icon: fa fa-envelope
             url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
@@ -309,42 +318,43 @@ params:
           - icon: fab fa-twitter
             url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
 
-      - title: MLOps Community meetup - 2024-04-10
-        content: A web app to convert image to pdf, png to jpg, png to jpg and png to webp without database using django.
-        image: /images/projects/converter.jpg
+      - title: "Innovative Gen AI Applications: Beyond Text"
+        date: "2024-04-10"
+        content: "Showcased challenges faced when building a GenAI use case for a call center application such as maximizing GPU utilization, speeding up the overall pipeline using parallelization and domain knowledge, and moving from POC to production."
+        image: /images/projects/call-center.png
         featured:
           name: Demo
           link: https://django-converter.herokuapp.com
         badges:
-          - "Django"
-          - "Bootstrap"
+          - "GenAI"
+          - "GPU Optimization"
+          - "Call Center Analysis"
         links:
           - icon: fab fa-github
             url: https://github.com/gurusabarish/converter
 
       - title: 9 Time UC Berkeley Guest Lecturer
-        content: A clean and simple Hugo template for personal portfolio and blog.
-        image: /images/projects/profile2.jpg
+        content: "Showcased MLOps fundamentals and best practices, including business/technical challenges solved, technology stack components, team structure, and design patterns. Repeat guest lecturer 9 times."
+        image: /images/projects/berkeley.jpg
         featured:
           name: Demo V2
           link: https://hugo-profile-2.netlify.app
         badges:
-          - "Hugo"
-          - "Bootstrap"
-          - "Javascript"
+          - "MLOps"
+          - "Best Practices"
         links:
           - icon: fab fa-github
             url: https://github.com/gurusabarish/HugoProfileV2
-      - title: ODSC West 2023
-        content: A highly customizable and mobile first Hugo template for personal portfolio and blog.
-        image: /images/projects/profile.png
+      - title: "ODSC West 2023: Building and Deploying a GenAI App in 20 Minutes"
+        content: "Showcased fine-tuned chatbot with RAG enrichment using open source tools such as MLRun, Langchain, Milvus, and Huggingface. Fine tuning was used to adjust the style of the writing to sound like a pirate whereas RAG enrichment was be used to inject knowledge about MLOps concepts and MLRun via blog posts by Iguazio."
+        image: /images/projects/odsc-west-2023.jpg
         featured:
           name: Demo
           link: https://hugo-profile.netlify.app
         badges:
-          - "Hugo"
-          - "Bootstrap"
-          - "Javascript"
+          - "GenAI"
+          - "Fine Tuning"
+          - "RAG"
         links:
           - icon: fa fa-envelope
             url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
@@ -353,15 +363,16 @@ params:
           - icon: fab fa-twitter
             url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
 
-      - title: ODSC West 2022
-        content: A web app to convert image to pdf, png to jpg, png to jpg and png to webp without database using django.
-        image: /images/projects/converter.jpg
+      - title: "ODSC West 2022: Creating an AI App in 20 Minutes Using MLRun"
+        content: "Discussed different model serving patterns and showcased training a heart disease classification model, deploying to a real-time serving endpoint, and building a custom Gradio front-end application."
+        image: /images/projects/odsc-west-2022.jpg
         featured:
           name: Demo
           link: https://django-converter.herokuapp.com
         badges:
-          - "Django"
-          - "Bootstrap"
+          - "Model Serving"
+          - "Gradio"
+          - "MLOps"
         links:
           - icon: fab fa-github
             url: https://github.com/gurusabarish/converter
