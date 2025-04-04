@@ -318,7 +318,7 @@ params:
           - icon: fab fa-twitter
             url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
 
-      - title: "Innovative Gen AI Applications: Beyond Text"
+      - title: "MLOps Community: Innovative Gen AI Applications - Beyond Text"
         date: "2024-04-10"
         content: "Showcased challenges faced when building a GenAI use case for a call center application such as maximizing GPU utilization, speeding up the overall pipeline using parallelization and domain knowledge, and moving from POC to production."
         image: /images/projects/call-center.png
