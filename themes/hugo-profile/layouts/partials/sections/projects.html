@@ -26,6 +26,11 @@
                             {{ end }}
                         </div>
                         <h5 class="card-title bg-transparent mt-1">{{ .title }}</h5>
+                        <div class="pb-2 bg-transparent">
+                            {{ range .dates }}
+                            <span class="badge badge-secondary">{{ . }}</span>
+                            {{ end }}
+                        </div>
                         <div class="card-text bg-transparent secondary-font">
                             {{ .content }}
                         </div>

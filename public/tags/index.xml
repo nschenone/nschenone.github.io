@@ -1,13 +1,76 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Hugo Profile</title>
+    <title>Tags on Nick Schenone</title>
     <link>http://localhost:1313/tags/</link>
-    <description>Recent content in Tags on Hugo Profile</description>
+    <description>Recent content in Tags on Nick Schenone</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Dec 2022 19:53:33 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fine Tuning</title>
+      <link>http://localhost:1313/tags/fine-tuning/</link>
+      <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/fine-tuning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GenAI</title>
+      <link>http://localhost:1313/tags/genai/</link>
+      <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/genai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>LLM</title>
+      <link>http://localhost:1313/tags/llm/</link>
+      <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/llm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>RAG</title>
+      <link>http://localhost:1313/tags/rag/</link>
+      <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/rag/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ML/AI</title>
+      <link>http://localhost:1313/tags/ml/ai/</link>
+      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/ml/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Feature Store</title>
+      <link>http://localhost:1313/tags/feature-store/</link>
+      <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/feature-store/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Iguazio</title>
+      <link>http://localhost:1313/tags/iguazio/</link>
+      <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/iguazio/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Snowflake</title>
+      <link>http://localhost:1313/tags/snowflake/</link>
+      <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/snowflake/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Spark</title>
+      <link>http://localhost:1313/tags/spark/</link>
+      <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/spark/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Example</title>
       <link>http://localhost:1313/tags/example/</link>
@@ -27,6 +90,55 @@
       <link>http://localhost:1313/tags/mathjax/</link>
       <pubDate>Fri, 09 Dec 2022 19:53:33 +0530</pubDate>
       <guid>http://localhost:1313/tags/mathjax/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Docker</title>
+      <link>http://localhost:1313/tags/docker/</link>
+      <pubDate>Sat, 26 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/docker/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Flask</title>
+      <link>http://localhost:1313/tags/flask/</link>
+      <pubDate>Sat, 26 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/flask/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>http://localhost:1313/tags/python/</link>
+      <pubDate>Sat, 26 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Application</title>
+      <link>http://localhost:1313/tags/application/</link>
+      <pubDate>Tue, 19 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/application/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MLRun</title>
+      <link>http://localhost:1313/tags/mlrun/</link>
+      <pubDate>Tue, 19 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/mlrun/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Streamlit</title>
+      <link>http://localhost:1313/tags/streamlit/</link>
+      <pubDate>Tue, 19 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/streamlit/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Azure ML</title>
+      <link>http://localhost:1313/tags/azure-ml/</link>
+      <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/azure-ml/</guid>
       <description></description>
     </item>
     <item>

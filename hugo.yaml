@@ -1,6 +1,6 @@
 baseURL: 'https://example.org/'
 languageCode: "en-us"
-title: "Hugo Profile"
+title: "Nick Schenone"
 theme: hugo-profile
 
 outputs:
@@ -13,7 +13,7 @@ outputs:
     - "RSS"
 
 pagination:
-  pagerSize: 3
+  pagerSize: 10
 enableRobotsTXT: true
 # disqusShortname: your-disqus-shortname
 # googleAnalytics: G-MEASUREMENT_ID
@@ -30,11 +30,11 @@ Menus:
       title: Blog posts
       url: /blogs
       weight: 1
-    - identifier: gallery
-      name: Gallery
-      title: Blog posts
-      url: /gallery
-      weight: 2
+    # - identifier: gallery
+    #   name: Gallery
+    #   title: Blog posts
+    #   url: /gallery
+    #   weight: 2
     #Dropdown menu
     # - identifier: dropdown
     #   title: Example dropdown menu
@@ -137,7 +137,7 @@ params:
       enable: false
     roundImage: true # Make hero image circular | default false
     button:
-      enable: true
+      enable: false
       name: "Resume"
       url: "#"
       download: true
@@ -145,12 +145,12 @@ params:
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
-          url: https://example.com
-        - icon: fab fa-x-twitter
-          url: https://example.com
-      customIcons:
-        - icon: /fav.png
-          url: "https://example.com"
+          url: https://github.com/nschenone
+        - icon: fab fa-linkedin
+          url: https://www.linkedin.com/in/nicholas-schenone-5b5383171/
+      # customIcons:
+      #   - icon: /fav.png
+      #     url: "https://example.com"
 
     # About
   about:
@@ -300,82 +300,96 @@ params:
       newPage: false
     items:
       - title: "Agentic AI Frameworks: Bridging Foundation Models & Business Impact - MLOps Live #34 w/ QuantumBlack"
-        date: "2025-01-28"
+        dates:
+          - "2025-01-28"
         content: "Developed and presented a solution for predictive customer retention using a combination of Traditional ML and Generative AI. Uses traditional ML churn classification alongside LLMs to generate hyper-personalized customer retention emails with a feedback loop and compliance checks."
         image: /images/projects/churn-webinar.png
         featured:
           name: Demo
-          link: https://hugo-profile.netlify.app
+          link: https://www.youtube.com/watch?v=pYngMlWtQw8
         badges:
           - "GenAI"
           - "Agentic AI"
           - "Churn Classification"
         links:
-          - icon: fa fa-envelope
-            url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
           - icon: fab fa-github
-            url: https://github.com/gurusabarish/hugo-profile
-          - icon: fab fa-twitter
-            url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+            url: https://github.com/igz-us-sales/churn-agents-webinar
+          - icon: fab fa-youtube
+            url: https://www.youtube.com/watch?v=pYngMlWtQw8
 
       - title: "MLOps Community: Innovative Gen AI Applications - Beyond Text"
-        date: "2024-04-10"
+        dates:
+          - "2024-04-10"
         content: "Showcased challenges faced when building a GenAI use case for a call center application such as maximizing GPU utilization, speeding up the overall pipeline using parallelization and domain knowledge, and moving from POC to production."
         image: /images/projects/call-center.png
         featured:
           name: Demo
-          link: https://django-converter.herokuapp.com
+          link: https://www.youtube.com/watch?v=x3ZQZObeGDc
         badges:
           - "GenAI"
           - "GPU Optimization"
           - "Call Center Analysis"
         links:
-          - icon: fab fa-github
-            url: https://github.com/gurusabarish/converter
+          - icon: fa-solid fa-globe
+            url: https://home.mlops.community/public/events/innovative-gen-ai-applications-beyond-text-2024-04-10?agenda_day=660e901f0a6e2c079df2576e&agenda_track=660e90200a6e2c079df25780&agenda_stage=660e901f0a6e2c079df25774&agenda_filter_view=stage&agenda_view=list
+          - icon: fab fa-youtube
+            url: https://www.youtube.com/watch?v=x3ZQZObeGDc
 
-      - title: 9 Time UC Berkeley Guest Lecturer
+      - title: 8 Time UC Berkeley Guest Lecturer
+        dates:
+          - "2022-09-06"
+          - "2023-01-18"
+          - "2023-05-22"
+          - "2023-09-14"
+          - "2024-02-06"
+          - "2024-05-14"
+          - "2024-09-16"
+          - "2025-01-30"
         content: "Showcased MLOps fundamentals and best practices, including business/technical challenges solved, technology stack components, team structure, and design patterns. Repeat guest lecturer 9 times."
         image: /images/projects/berkeley.jpg
-        featured:
-          name: Demo V2
-          link: https://hugo-profile-2.netlify.app
+        # featured:
+        #   name: Demo V2
+        #   link: https://hugo-profile-2.netlify.app
         badges:
           - "MLOps"
           - "Best Practices"
         links:
           - icon: fab fa-github
-            url: https://github.com/gurusabarish/HugoProfileV2
+            url: https://github.com/igz-us-sales/berkeley-mlops
+
       - title: "ODSC West 2023: Building and Deploying a GenAI App in 20 Minutes"
+        dates:
+          - "2023-10-31"
         content: "Showcased fine-tuned chatbot with RAG enrichment using open source tools such as MLRun, Langchain, Milvus, and Huggingface. Fine tuning was used to adjust the style of the writing to sound like a pirate whereas RAG enrichment was be used to inject knowledge about MLOps concepts and MLRun via blog posts by Iguazio."
         image: /images/projects/odsc-west-2023.jpg
         featured:
           name: Demo
-          link: https://hugo-profile.netlify.app
+          link: https://www.youtube.com/watch?v=7MHwGUsOSyM
         badges:
           - "GenAI"
           - "Fine Tuning"
           - "RAG"
         links:
-          - icon: fa fa-envelope
-            url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
           - icon: fab fa-github
-            url: https://github.com/gurusabarish/hugo-profile
-          - icon: fab fa-twitter
-            url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+            url: https://github.com/igz-us-sales/odsc-west-2023
+          - icon: fab fa-youtube
+            url: https://www.youtube.com/watch?v=7MHwGUsOSyM
 
       - title: "ODSC West 2022: Creating an AI App in 20 Minutes Using MLRun"
+        dates:
+          - "2022-11-03"
         content: "Discussed different model serving patterns and showcased training a heart disease classification model, deploying to a real-time serving endpoint, and building a custom Gradio front-end application."
         image: /images/projects/odsc-west-2022.jpg
-        featured:
-          name: Demo
-          link: https://django-converter.herokuapp.com
+        # featured:
+        #   name: Demo
+        #   link: https://django-converter.herokuapp.com
         badges:
           - "Model Serving"
           - "Gradio"
           - "MLOps"
         links:
           - icon: fab fa-github
-            url: https://github.com/gurusabarish/converter
+            url: https://huggingface.co/spaces/igz-us-sales/odsc-west-2022/tree/main
 
 
   speaking:

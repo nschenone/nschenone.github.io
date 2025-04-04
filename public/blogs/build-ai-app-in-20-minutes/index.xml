@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Build an AI App in Under 20 Minutes on Nick Schenone</title>
+    <link>http://localhost:1313/blogs/build-ai-app-in-20-minutes/</link>
+    <description>Recent content in Build an AI App in Under 20 Minutes on Nick Schenone</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/blogs/build-ai-app-in-20-minutes/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

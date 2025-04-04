@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Feature Store on Nick Schenone</title>
+    <link>http://localhost:1313/tags/feature-store/</link>
+    <description>Recent content in Feature Store on Nick Schenone</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 21 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/feature-store/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Distributed Feature Store Ingestion with Iguazio, Snowflake, and Spark</title>
+      <link>http://localhost:1313/blogs/distributed-feature-store-ingestion/</link>
+      <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/distributed-feature-store-ingestion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Complete Guide to Using the Iguazio Feature Store with Azure ML - Part 4</title>
+      <link>http://localhost:1313/blogs/feature-store-4/</link>
+      <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/feature-store-4/</guid>
+      <description>Hybrid Cloud + On-Premises Model Serving + Model Monitoring</description>
+    </item>
+    <item>
+      <title>The Complete Guide to Using the Iguazio Feature Store with Azure ML - Part 3</title>
+      <link>http://localhost:1313/blogs/feature-store-3/</link>
+      <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/feature-store-3/</guid>
+      <description>Model Training with Azure ML and Iguazio</description>
+    </item>
+    <item>
+      <title>The Complete Guide to Using the Iguazio Feature Store with Azure ML - Part 2</title>
+      <link>http://localhost:1313/blogs/feature-store-2/</link>
+      <pubDate>Wed, 19 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/feature-store-2/</guid>
+      <description>Data Ingestion + Transformation into Iguazio&amp;rsquo;s Feature Store</description>
+    </item>
+    <item>
+      <title>The Complete Guide to Using the Iguazio Feature Store with Azure ML - Part 1</title>
+      <link>http://localhost:1313/blogs/feature-store-1/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/feature-store-1/</guid>
+      <description>The Gaps: Challenges When Operationalizing Data Science</description>
+    </item>
+  </channel>
+</rss>
