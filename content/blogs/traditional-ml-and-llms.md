@@ -7,7 +7,7 @@ tags:
   - GenAI
   - ML/AI
   - LLM
-image: /images/blogs/traditional-ml-and-llms
+image: /images/blogs/traditional-ml-and-llms.jpeg
 summary: " "
 toc: 
 ---
