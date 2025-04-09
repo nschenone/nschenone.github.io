@@ -35,12 +35,6 @@
     <loc>http://localhost:1313/blogs/traditional-ml-and-llms/</loc>
     <lastmod>2024-04-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/all-projects/</loc>
-    <lastmod>2024-01-14T07:07:07+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/all-projects/my-first-post/</loc>
-    <lastmod>2024-01-14T07:07:07+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/blogs/distributed-feature-store-ingestion/</loc>
     <lastmod>2022-12-21T00:00:00+00:00</lastmod>
   </url><url>
@@ -55,21 +49,6 @@
   </url><url>
     <loc>http://localhost:1313/tags/spark/</loc>
     <lastmod>2022-12-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/default-blogs/</loc>
-    <lastmod>2022-12-09T19:53:33+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/example/</loc>
-    <lastmod>2022-12-09T19:53:33+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/markdown-syntax/</loc>
-    <lastmod>2022-12-09T19:53:33+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/mathjax/</loc>
-    <lastmod>2022-12-09T19:53:33+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/default-blogs/math/</loc>
-    <lastmod>2022-12-09T19:53:33+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/docker/</loc>
     <lastmod>2022-11-26T00:00:00+00:00</lastmod>
@@ -109,30 +88,6 @@
   </url><url>
     <loc>http://localhost:1313/blogs/feature-store-1/</loc>
     <lastmod>2022-01-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/default-blogs/markdown-syntax/</loc>
-    <lastmod>2021-04-03T23:29:21+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/sample/</loc>
-    <lastmod>2021-04-03T23:29:21+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/emoji-support/</loc>
-    <lastmod>2021-04-03T22:53:58+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/default-blogs/emoji-support/</loc>
-    <lastmod>2021-04-03T22:53:58+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/placeholder-text/</loc>
-    <lastmod>2021-04-03T22:41:10+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/default-blogs/placeholder-text/</loc>
-    <lastmod>2021-04-03T22:41:10+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/rich-content/</loc>
-    <lastmod>2021-04-03T19:53:33+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/default-blogs/rich-content/</loc>
-    <lastmod>2021-04-03T19:53:33+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url>
