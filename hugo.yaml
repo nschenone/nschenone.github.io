@@ -1,7 +1,11 @@
-baseURL: 'https://example.org/'
+baseURL: 'https://nschenone.github.io'
 languageCode: "en-us"
 title: "Nick Schenone"
 theme: hugo-profile
+
+caches:
+  images:
+    dir: :cacheDir/images
 
 outputs:
   home:
