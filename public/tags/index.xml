@@ -2,122 +2,122 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Nick Schenone</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://nschenone.github.io/tags/</link>
     <description>Recent content in Tags on Nick Schenone</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 08 Jul 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://nschenone.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fine Tuning</title>
-      <link>http://localhost:1313/tags/fine-tuning/</link>
+      <link>https://nschenone.github.io/tags/fine-tuning/</link>
       <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/fine-tuning/</guid>
+      <guid>https://nschenone.github.io/tags/fine-tuning/</guid>
       <description></description>
     </item>
     <item>
       <title>GenAI</title>
-      <link>http://localhost:1313/tags/genai/</link>
+      <link>https://nschenone.github.io/tags/genai/</link>
       <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/genai/</guid>
+      <guid>https://nschenone.github.io/tags/genai/</guid>
       <description></description>
     </item>
     <item>
       <title>LLM</title>
-      <link>http://localhost:1313/tags/llm/</link>
+      <link>https://nschenone.github.io/tags/llm/</link>
       <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/llm/</guid>
+      <guid>https://nschenone.github.io/tags/llm/</guid>
       <description></description>
     </item>
     <item>
       <title>RAG</title>
-      <link>http://localhost:1313/tags/rag/</link>
+      <link>https://nschenone.github.io/tags/rag/</link>
       <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/rag/</guid>
+      <guid>https://nschenone.github.io/tags/rag/</guid>
       <description></description>
     </item>
     <item>
       <title>ML/AI</title>
-      <link>http://localhost:1313/tags/ml/ai/</link>
+      <link>https://nschenone.github.io/tags/ml/ai/</link>
       <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/ml/ai/</guid>
+      <guid>https://nschenone.github.io/tags/ml/ai/</guid>
       <description></description>
     </item>
     <item>
       <title>Feature Store</title>
-      <link>http://localhost:1313/tags/feature-store/</link>
+      <link>https://nschenone.github.io/tags/feature-store/</link>
       <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/feature-store/</guid>
+      <guid>https://nschenone.github.io/tags/feature-store/</guid>
       <description></description>
     </item>
     <item>
       <title>Iguazio</title>
-      <link>http://localhost:1313/tags/iguazio/</link>
+      <link>https://nschenone.github.io/tags/iguazio/</link>
       <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/iguazio/</guid>
+      <guid>https://nschenone.github.io/tags/iguazio/</guid>
       <description></description>
     </item>
     <item>
       <title>Snowflake</title>
-      <link>http://localhost:1313/tags/snowflake/</link>
+      <link>https://nschenone.github.io/tags/snowflake/</link>
       <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/snowflake/</guid>
+      <guid>https://nschenone.github.io/tags/snowflake/</guid>
       <description></description>
     </item>
     <item>
       <title>Spark</title>
-      <link>http://localhost:1313/tags/spark/</link>
+      <link>https://nschenone.github.io/tags/spark/</link>
       <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/spark/</guid>
+      <guid>https://nschenone.github.io/tags/spark/</guid>
       <description></description>
     </item>
     <item>
       <title>Docker</title>
-      <link>http://localhost:1313/tags/docker/</link>
+      <link>https://nschenone.github.io/tags/docker/</link>
       <pubDate>Sat, 26 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/docker/</guid>
+      <guid>https://nschenone.github.io/tags/docker/</guid>
       <description></description>
     </item>
     <item>
       <title>Flask</title>
-      <link>http://localhost:1313/tags/flask/</link>
+      <link>https://nschenone.github.io/tags/flask/</link>
       <pubDate>Sat, 26 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/flask/</guid>
+      <guid>https://nschenone.github.io/tags/flask/</guid>
       <description></description>
     </item>
     <item>
       <title>Python</title>
-      <link>http://localhost:1313/tags/python/</link>
+      <link>https://nschenone.github.io/tags/python/</link>
       <pubDate>Sat, 26 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/python/</guid>
+      <guid>https://nschenone.github.io/tags/python/</guid>
       <description></description>
     </item>
     <item>
       <title>Application</title>
-      <link>http://localhost:1313/tags/application/</link>
+      <link>https://nschenone.github.io/tags/application/</link>
       <pubDate>Tue, 19 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/application/</guid>
+      <guid>https://nschenone.github.io/tags/application/</guid>
       <description></description>
     </item>
     <item>
       <title>MLRun</title>
-      <link>http://localhost:1313/tags/mlrun/</link>
+      <link>https://nschenone.github.io/tags/mlrun/</link>
       <pubDate>Tue, 19 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/mlrun/</guid>
+      <guid>https://nschenone.github.io/tags/mlrun/</guid>
       <description></description>
     </item>
     <item>
       <title>Streamlit</title>
-      <link>http://localhost:1313/tags/streamlit/</link>
+      <link>https://nschenone.github.io/tags/streamlit/</link>
       <pubDate>Tue, 19 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/streamlit/</guid>
+      <guid>https://nschenone.github.io/tags/streamlit/</guid>
       <description></description>
     </item>
     <item>
       <title>Azure ML</title>
-      <link>http://localhost:1313/tags/azure-ml/</link>
+      <link>https://nschenone.github.io/tags/azure-ml/</link>
       <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/azure-ml/</guid>
+      <guid>https://nschenone.github.io/tags/azure-ml/</guid>
       <description></description>
     </item>
   </channel>

@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Nick Schenone</title>
-    <link>http://localhost:1313/blogs/</link>
+    <link>https://nschenone.github.io/blogs/</link>
     <description>Recent content in Blogs on Nick Schenone</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 08 Jul 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://nschenone.github.io/blogs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>RAG vs Fine-Tuning: Navigating the Path to Enhanced LLMs</title>
-      <link>http://localhost:1313/blogs/rag-vs-fine-tuning/</link>
+      <link>https://nschenone.github.io/blogs/rag-vs-fine-tuning/</link>
       <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blogs/rag-vs-fine-tuning/</guid>
+      <guid>https://nschenone.github.io/blogs/rag-vs-fine-tuning/</guid>
       <description></description>
     </item>
     <item>
       <title>Future-Proofing Your App: Strategies for Building Long-Lasting Apps</title>
-      <link>http://localhost:1313/blogs/future-proofing-your-apps/</link>
+      <link>https://nschenone.github.io/blogs/future-proofing-your-apps/</link>
       <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blogs/future-proofing-your-apps/</guid>
+      <guid>https://nschenone.github.io/blogs/future-proofing-your-apps/</guid>
       <description></description>
     </item>
     <item>
       <title>Integrating LLMs with Traditional ML: How, Why &amp; Use Cases</title>
-      <link>http://localhost:1313/blogs/traditional-ml-and-llms/</link>
+      <link>https://nschenone.github.io/blogs/traditional-ml-and-llms/</link>
       <pubDate>Wed, 24 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blogs/traditional-ml-and-llms/</guid>
+      <guid>https://nschenone.github.io/blogs/traditional-ml-and-llms/</guid>
       <description></description>
     </item>
     <item>
       <title>Distributed Feature Store Ingestion with Iguazio, Snowflake, and Spark</title>
-      <link>http://localhost:1313/blogs/distributed-feature-store-ingestion/</link>
+      <link>https://nschenone.github.io/blogs/distributed-feature-store-ingestion/</link>
       <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blogs/distributed-feature-store-ingestion/</guid>
+      <guid>https://nschenone.github.io/blogs/distributed-feature-store-ingestion/</guid>
       <description></description>
     </item>
     <item>
       <title>How I Over-Engineered a Roku Sleep Timer</title>
-      <link>http://localhost:1313/blogs/roku-sleep-timer/</link>
+      <link>https://nschenone.github.io/blogs/roku-sleep-timer/</link>
       <pubDate>Sat, 26 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blogs/roku-sleep-timer/</guid>
+      <guid>https://nschenone.github.io/blogs/roku-sleep-timer/</guid>
       <description>My thought process for making certain design decisions while creating a self-hosted microservice API using Docker, Python, and Flask</description>
     </item>
     <item>
       <title>Build an AI App in Under 20 Minutes</title>
-      <link>http://localhost:1313/blogs/build-ai-app-in-20-minutes/</link>
+      <link>https://nschenone.github.io/blogs/build-ai-app-in-20-minutes/</link>
       <pubDate>Tue, 19 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blogs/build-ai-app-in-20-minutes/</guid>
+      <guid>https://nschenone.github.io/blogs/build-ai-app-in-20-minutes/</guid>
       <description>Creating and Deploying an AI Application using MLRun and Streamlit</description>
     </item>
     <item>
       <title>The Complete Guide to Using the Iguazio Feature Store with Azure ML - Part 4</title>
-      <link>http://localhost:1313/blogs/feature-store-4/</link>
+      <link>https://nschenone.github.io/blogs/feature-store-4/</link>
       <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blogs/feature-store-4/</guid>
+      <guid>https://nschenone.github.io/blogs/feature-store-4/</guid>
       <description>Hybrid Cloud + On-Premises Model Serving + Model Monitoring</description>
     </item>
     <item>
       <title>The Complete Guide to Using the Iguazio Feature Store with Azure ML - Part 3</title>
-      <link>http://localhost:1313/blogs/feature-store-3/</link>
+      <link>https://nschenone.github.io/blogs/feature-store-3/</link>
       <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blogs/feature-store-3/</guid>
+      <guid>https://nschenone.github.io/blogs/feature-store-3/</guid>
       <description>Model Training with Azure ML and Iguazio</description>
     </item>
     <item>
       <title>The Complete Guide to Using the Iguazio Feature Store with Azure ML - Part 2</title>
-      <link>http://localhost:1313/blogs/feature-store-2/</link>
+      <link>https://nschenone.github.io/blogs/feature-store-2/</link>
       <pubDate>Wed, 19 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blogs/feature-store-2/</guid>
+      <guid>https://nschenone.github.io/blogs/feature-store-2/</guid>
       <description>Data Ingestion + Transformation into Iguazio&amp;rsquo;s Feature Store</description>
     </item>
     <item>
       <title>The Complete Guide to Using the Iguazio Feature Store with Azure ML - Part 1</title>
-      <link>http://localhost:1313/blogs/feature-store-1/</link>
+      <link>https://nschenone.github.io/blogs/feature-store-1/</link>
       <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blogs/feature-store-1/</guid>
+      <guid>https://nschenone.github.io/blogs/feature-store-1/</guid>
       <description>The Gaps: Challenges When Operationalizing Data Science</description>
     </item>
   </channel>

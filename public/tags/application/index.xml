@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Application on Nick Schenone</title>
-    <link>http://localhost:1313/tags/application/</link>
+    <link>https://nschenone.github.io/tags/application/</link>
     <description>Recent content in Application on Nick Schenone</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 19 Jul 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/application/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://nschenone.github.io/tags/application/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Build an AI App in Under 20 Minutes</title>
-      <link>http://localhost:1313/blogs/build-ai-app-in-20-minutes/</link>
+      <link>https://nschenone.github.io/blogs/build-ai-app-in-20-minutes/</link>
       <pubDate>Tue, 19 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blogs/build-ai-app-in-20-minutes/</guid>
+      <guid>https://nschenone.github.io/blogs/build-ai-app-in-20-minutes/</guid>
       <description>Creating and Deploying an AI Application using MLRun and Streamlit</description>
     </item>
   </channel>

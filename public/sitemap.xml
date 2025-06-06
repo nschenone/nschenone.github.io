@@ -2,93 +2,93 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/blogs/</loc>
+    <loc>https://nschenone.github.io/blogs/</loc>
     <lastmod>2024-07-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/fine-tuning/</loc>
+    <loc>https://nschenone.github.io/tags/fine-tuning/</loc>
     <lastmod>2024-07-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/genai/</loc>
+    <loc>https://nschenone.github.io/tags/genai/</loc>
     <lastmod>2024-07-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/llm/</loc>
+    <loc>https://nschenone.github.io/tags/llm/</loc>
     <lastmod>2024-07-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://nschenone.github.io/</loc>
     <lastmod>2024-07-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/rag/</loc>
+    <loc>https://nschenone.github.io/tags/rag/</loc>
     <lastmod>2024-07-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blogs/rag-vs-fine-tuning/</loc>
+    <loc>https://nschenone.github.io/blogs/rag-vs-fine-tuning/</loc>
     <lastmod>2024-07-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://nschenone.github.io/tags/</loc>
     <lastmod>2024-07-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blogs/future-proofing-your-apps/</loc>
+    <loc>https://nschenone.github.io/blogs/future-proofing-your-apps/</loc>
     <lastmod>2024-05-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/ml/ai/</loc>
+    <loc>https://nschenone.github.io/tags/ml/ai/</loc>
     <lastmod>2024-05-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blogs/traditional-ml-and-llms/</loc>
+    <loc>https://nschenone.github.io/blogs/traditional-ml-and-llms/</loc>
     <lastmod>2024-04-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blogs/distributed-feature-store-ingestion/</loc>
+    <loc>https://nschenone.github.io/blogs/distributed-feature-store-ingestion/</loc>
     <lastmod>2022-12-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/feature-store/</loc>
+    <loc>https://nschenone.github.io/tags/feature-store/</loc>
     <lastmod>2022-12-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/iguazio/</loc>
+    <loc>https://nschenone.github.io/tags/iguazio/</loc>
     <lastmod>2022-12-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/snowflake/</loc>
+    <loc>https://nschenone.github.io/tags/snowflake/</loc>
     <lastmod>2022-12-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/spark/</loc>
+    <loc>https://nschenone.github.io/tags/spark/</loc>
     <lastmod>2022-12-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/docker/</loc>
+    <loc>https://nschenone.github.io/tags/docker/</loc>
     <lastmod>2022-11-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/flask/</loc>
+    <loc>https://nschenone.github.io/tags/flask/</loc>
     <lastmod>2022-11-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blogs/roku-sleep-timer/</loc>
+    <loc>https://nschenone.github.io/blogs/roku-sleep-timer/</loc>
     <lastmod>2022-11-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/python/</loc>
+    <loc>https://nschenone.github.io/tags/python/</loc>
     <lastmod>2022-11-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/application/</loc>
+    <loc>https://nschenone.github.io/tags/application/</loc>
     <lastmod>2022-07-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blogs/build-ai-app-in-20-minutes/</loc>
+    <loc>https://nschenone.github.io/blogs/build-ai-app-in-20-minutes/</loc>
     <lastmod>2022-07-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/mlrun/</loc>
+    <loc>https://nschenone.github.io/tags/mlrun/</loc>
     <lastmod>2022-07-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/streamlit/</loc>
+    <loc>https://nschenone.github.io/tags/streamlit/</loc>
     <lastmod>2022-07-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/azure-ml/</loc>
+    <loc>https://nschenone.github.io/tags/azure-ml/</loc>
     <lastmod>2022-02-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blogs/feature-store-4/</loc>
+    <loc>https://nschenone.github.io/blogs/feature-store-4/</loc>
     <lastmod>2022-02-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blogs/feature-store-3/</loc>
+    <loc>https://nschenone.github.io/blogs/feature-store-3/</loc>
     <lastmod>2022-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blogs/feature-store-2/</loc>
+    <loc>https://nschenone.github.io/blogs/feature-store-2/</loc>
     <lastmod>2022-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blogs/feature-store-1/</loc>
+    <loc>https://nschenone.github.io/blogs/feature-store-1/</loc>
     <lastmod>2022-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://nschenone.github.io/categories/</loc>
   </url>
 </urlset>

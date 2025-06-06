@@ -310,6 +310,22 @@ params:
       download: true
       newPage: false
     items:
+      - title: "Building Agent Co-pilots for Proactive Call Centers - MLOps Live #37 with Iguazio"
+        dates:
+          - "2025-04-22"
+        content: "Developed and presented a solution for a real-time co-pilot for call center agents using Generative AI. Covered architecture, challenges, implementation details, and lessons learned."
+        image: /images/projects/call-center-webinar.jpeg
+        featured:
+          name: Demo
+          link: https://youtu.be/eyzdZx2uU4s
+        badges:
+          - "GenAI"
+          - "Copilot"
+          - "Call Center"
+        links:
+          - icon: fab fa-youtube
+            url: https://youtu.be/eyzdZx2uU4s
+
       - title: "Agentic AI Frameworks: Bridging Foundation Models & Business Impact - MLOps Live #34 w/ QuantumBlack"
         dates:
           - "2025-01-28"
@@ -346,7 +362,7 @@ params:
           - icon: fab fa-youtube
             url: https://www.youtube.com/watch?v=x3ZQZObeGDc
 
-      - title: 8 Time UC Berkeley Guest Lecturer
+      - title: 9 Time UC Berkeley Guest Lecturer
         dates:
           - "2022-09-06"
           - "2023-01-18"
@@ -356,6 +372,7 @@ params:
           - "2024-05-14"
           - "2024-09-16"
           - "2025-01-30"
+          - "2025-05-22"
         content: "Showcased MLOps fundamentals and best practices, including business/technical challenges solved, technology stack components, team structure, and design patterns. Repeat guest lecturer 9 times."
         image: /images/projects/berkeley.jpg
         # featured:
