@@ -373,7 +373,8 @@ params:
           - "2024-09-16"
           - "2025-01-30"
           - "2025-05-22"
-        content: "Showcased MLOps fundamentals and best practices, including business/technical challenges solved, technology stack components, team structure, and design patterns. Repeat guest lecturer 9 times."
+          - "2026-01-27"
+        content: "Showcased MLOps fundamentals and best practices, including business/technical challenges solved, technology stack components, team structure, and design patterns. Repeat guest lecturer 10 times."
         image: /images/projects/berkeley.jpg
         # featured:
         #   name: Demo V2
